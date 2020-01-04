@@ -1,0 +1,2 @@
+# MyRepository
+My gitignore repository
